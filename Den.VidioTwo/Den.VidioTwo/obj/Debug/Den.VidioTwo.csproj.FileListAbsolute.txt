@@ -1,0 +1,7 @@
+C:\Users\GOD\source\repos\Den.VidioTwo\Den.VidioTwo\bin\Debug\Den.VidioTwo.exe.config
+C:\Users\GOD\source\repos\Den.VidioTwo\Den.VidioTwo\bin\Debug\Den.VidioTwo.exe
+C:\Users\GOD\source\repos\Den.VidioTwo\Den.VidioTwo\bin\Debug\Den.VidioTwo.pdb
+C:\Users\GOD\source\repos\Den.VidioTwo\Den.VidioTwo\obj\Debug\Den.VidioTwo.csprojAssemblyReference.cache
+C:\Users\GOD\source\repos\Den.VidioTwo\Den.VidioTwo\obj\Debug\Den.VidioTwo.csproj.CoreCompileInputs.cache
+C:\Users\GOD\source\repos\Den.VidioTwo\Den.VidioTwo\obj\Debug\Den.VidioTwo.exe
+C:\Users\GOD\source\repos\Den.VidioTwo\Den.VidioTwo\obj\Debug\Den.VidioTwo.pdb
