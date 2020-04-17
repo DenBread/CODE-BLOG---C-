@@ -45,10 +45,9 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TestContructer.cs" />
     <Compile Include="ThreeVideo.cs" />
-    <Compile Include="..\..\..\..\Documents\Gid\CODE-BLOG---C-\TwoVideo.cs">
-      <Link>TwoVideo.cs</Link>
-    </Compile>
+    <Compile Include="TypeWriter.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
