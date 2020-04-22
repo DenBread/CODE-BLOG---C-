@@ -1,0 +1,7 @@
+C:\Users\GOD\source\repos\Den.CodeBlog\SixthVideo.CodeBlog\bin\Debug\SixthVideo.CodeBlog.exe.config
+C:\Users\GOD\source\repos\Den.CodeBlog\SixthVideo.CodeBlog\bin\Debug\SixthVideo.CodeBlog.exe
+C:\Users\GOD\source\repos\Den.CodeBlog\SixthVideo.CodeBlog\bin\Debug\SixthVideo.CodeBlog.pdb
+C:\Users\GOD\source\repos\Den.CodeBlog\SixthVideo.CodeBlog\obj\Debug\SixthVideo.CodeBlog.csproj.CoreCompileInputs.cache
+C:\Users\GOD\source\repos\Den.CodeBlog\SixthVideo.CodeBlog\obj\Debug\SixthVideo.CodeBlog.exe
+C:\Users\GOD\source\repos\Den.CodeBlog\SixthVideo.CodeBlog\obj\Debug\SixthVideo.CodeBlog.pdb
+C:\Users\GOD\source\repos\Den.CodeBlog\SixthVideo.CodeBlog\obj\Debug\SixthVideo.CodeBlog.csprojAssemblyReference.cache

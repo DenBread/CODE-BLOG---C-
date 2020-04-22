@@ -1,0 +1,7 @@
+C:\Users\GOD\source\repos\Den.CodeBlog\FirstVideo.CodeBlog\bin\Debug\FirstVideo.CodeBlog.exe.config
+C:\Users\GOD\source\repos\Den.CodeBlog\FirstVideo.CodeBlog\bin\Debug\FirstVideo.CodeBlog.exe
+C:\Users\GOD\source\repos\Den.CodeBlog\FirstVideo.CodeBlog\bin\Debug\FirstVideo.CodeBlog.pdb
+C:\Users\GOD\source\repos\Den.CodeBlog\FirstVideo.CodeBlog\obj\Debug\FirstVideo.CodeBlog.csprojAssemblyReference.cache
+C:\Users\GOD\source\repos\Den.CodeBlog\FirstVideo.CodeBlog\obj\Debug\FirstVideo.CodeBlog.csproj.CoreCompileInputs.cache
+C:\Users\GOD\source\repos\Den.CodeBlog\FirstVideo.CodeBlog\obj\Debug\FirstVideo.CodeBlog.exe
+C:\Users\GOD\source\repos\Den.CodeBlog\FirstVideo.CodeBlog\obj\Debug\FirstVideo.CodeBlog.pdb
